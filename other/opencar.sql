@@ -281,7 +281,7 @@ CREATE TABLE `cms` (
 -- Records of cms
 -- ----------------------------
 INSERT INTO `cms` VALUES ('40', '公司简介', '公司简介', '网易', '张丰毅', '<p>&nbsp;大家好安静会就爱就爱就爱就爱</p>', '2015-06-30 22:08:42', '47', '0', '1', 'upload/2/9/e481984f-a911-41ca-971f-c4f9abf1b370_ren.jpg', '梵蒂冈', '公司简介', null, null, null, null, null, null);
-INSERT INTO `cms` VALUES ('41', '联系我们', '联系我们', '联系我们', '张三丰', '<p>&nbsp;</p>\r\n<p style=\"box-sizing: border-box; margin: 0px 0px 10px; color: rgb(102, 102, 102); font-family: Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft Yahei&quot;, 微软雅黑, Arial, sans-serif;\"><span style=\"box-sizing: border-box; font-family: 微软雅黑; font-size: 15px;\">&nbsp; &nbsp; &nbsp; &nbsp; 成都维熵科技有限责任公司是一家专业的电子商务信息化技术服务供应商，致力于电商、渠道、资金安全等方面的技术服务，公司融分析策划、定制开发、售后维护、培训指导为一体的信息化服务。通过整合优势资源、数据为客户提供专业的系统建设方案，以技术提升用户体验，多通道、多渠道推进运营和发展。</span></p>\r\n<p style=\"box-sizing: border-box; margin: 0px 0px 10px; color: rgb(102, 102, 102); font-family: Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft Yahei&quot;, 微软雅黑, Arial, sans-serif;\">&nbsp;</p>\r\n<p style=\"box-sizing: border-box; margin: 0px 0px 10px; color: rgb(102, 102, 102); font-family: Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft Yahei&quot;, 微软雅黑, Arial, sans-serif;\"><span style=\"box-sizing: border-box;\"><span style=\"box-sizing: border-box; font-size: 15px;\">客服电话：028-85980903</span></span></p>\r\n<p style=\"box-sizing: border-box; margin: 0px 0px 10px; color: rgb(102, 102, 102); font-family: Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft Yahei&quot;, 微软雅黑, Arial, sans-serif;\"><span style=\"box-sizing: border-box;\"><span style=\"box-sizing: border-box; font-size: 15px;\">合作电话：18980901670</span></span></p>\r\n<p>&nbsp;</p>', '2015-06-30 23:39:13', '48', '1', '1', 'upload/15/10/c0b6fe38-b3ae-4f23-9b55-eb2a9d188b0a_20161213130310310.jpg', '联系我们', '联系我们', '', null, null, null, null, null);
+INSERT INTO `cms` VALUES ('41', '联系我们', '联系我们', '联系我们', '张三丰', '<p>&nbsp;</p>\r\n<p style=\"box-sizing: border-box; margin: 0px 0px 10px; color: rgb(102, 102, 102); font-family: Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft Yahei&quot;, 微软雅黑, Arial, sans-serif;\"><span style=\"box-sizing: border-box; font-family: 微软雅黑; font-size: 15px;\">&nbsp; &nbsp; &nbsp; &nbsp; 成都未来科技有限责任公司是一家专业的电子商务信息化技术服务供应商，致力于电商、渠道、资金安全等方面的技术服务，公司融分析策划、定制开发、售后维护、培训指导为一体的信息化服务。通过整合优势资源、数据为客户提供专业的系统建设方案，以技术提升用户体验，多通道、多渠道推进运营和发展。</span></p>\r\n<p style=\"box-sizing: border-box; margin: 0px 0px 10px; color: rgb(102, 102, 102); font-family: Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft Yahei&quot;, 微软雅黑, Arial, sans-serif;\">&nbsp;</p>\r\n<p style=\"box-sizing: border-box; margin: 0px 0px 10px; color: rgb(102, 102, 102); font-family: Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft Yahei&quot;, 微软雅黑, Arial, sans-serif;\"><span style=\"box-sizing: border-box;\"><span style=\"box-sizing: border-box; font-size: 15px;\">客服电话：028-85980903</span></span></p>\r\n<p style=\"box-sizing: border-box; margin: 0px 0px 10px; color: rgb(102, 102, 102); font-family: Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft Yahei&quot;, 微软雅黑, Arial, sans-serif;\"><span style=\"box-sizing: border-box;\"><span style=\"box-sizing: border-box; font-size: 15px;\">合作电话：18980901670</span></span></p>\r\n<p>&nbsp;</p>', '2015-06-30 23:39:13', '48', '1', '1', 'upload/15/10/c0b6fe38-b3ae-4f23-9b55-eb2a9d188b0a_20161213130310310.jpg', '联系我们', '联系我们', '', null, null, null, null, null);
 INSERT INTO `cms` VALUES ('42', '我们的团队', '我们的团队', '我们的团队', '张三丰', '<p>我们的团队我们的团队我们的团队我们的团队我们的团队我们的团队我们的团队我们的团队我们的团队我们的团队我们的团队我们的团队我们的团队我们的团队我们的团队我们的团队我们的团队我们的团队我们的团队我们的团队我们的团队我们的团队我们的团队我们的团队我们的团队我们的团队我们的团队我们的团队我们的团队我们的团队我们的团队我们的团队我们的团队我们的团队我们的团队我们的团队我们的团队我们的团队我们的团队我们的团队我们的团队我们的团队我们的团队我们的团队我们的团队我们的团队我们的团队我们的团队</p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>', '2015-06-30 23:41:55', '49', '2', '1', 'upload/2/9/e481984f-a911-41ca-971f-c4f9abf1b370_ren.jpg', '我们的团队', '我们的团队', null, null, null, null, null, null);
 INSERT INTO `cms` VALUES ('45', '业内新闻', '业内新闻', '业内新闻', '张三丰', '<p>业内新闻业内新闻业内新闻业内新闻业内新闻业内新闻业内新闻业内新闻业内新闻业内新闻业内新闻业内新闻业内新闻业内新闻业内新闻业内新闻业内新闻业内新闻业内新闻业内新闻业内新闻业内新闻业内新闻业内新闻业内新闻业内新闻业内新闻业内新闻业内新闻业内新闻业内新闻业内新闻业内新闻业内新闻业内新闻业内新闻业内新闻业内新闻业内新闻业内新闻业内新闻业内新闻业内新闻业内新闻业内新闻业内新闻业内新闻业内新闻业内新闻业内新闻业内新闻业内新闻业内新闻业内新闻业内新闻业内新闻业内新闻业内新闻业内新闻业内新闻业内新闻业内新闻业内新闻业内新闻业内新闻业内新闻业内新闻业内新闻业内新闻业内新闻业内新闻业内新闻业内新闻业内新闻业内新闻业内新闻业内新闻业内新闻业内新闻业内新闻业内新闻业内新闻业内新闻业内新闻业内新闻业内新闻业内新闻业内新闻业内新闻业内新闻业内新闻业内新闻业内新闻业内新闻业内新闻业内新闻业内新闻业内新闻业内新闻业内新闻业内新闻</p>\r\n<p>&nbsp;</p>', '2015-07-01 09:27:14', '52', '0', '1', '', '业内新闻', '业内新闻', null, null, null, null, null, null);
 INSERT INTO `cms` VALUES ('44', '签单测试1', '签单测试1', '签单测试1', '张三丰', '<p>签单测试1签单测试1签单测试1签单测试1签单测试1签单测试1签单测试1签单测试1签单测试1签单测试1签单测试1签单测试1签单测试1签单测试1签单测试1签单测试1签单测试1签单测试1签单测试1签单测试1签单测试1签单测试1签单测试1签单测试1签单测试1签单测试1签单测试1签单测试1签单测试1签单测试1签单测试1签单测试1签单测试1签单测试1签单测试1签单测试1签单测试1签单测试1签单测试1签单测试1签单测试1签单测试1签单测试1签单测试1签单测试1签单测试1签单测试1签单测试1签单测试1签单测试1签单测试1签单测试1签单测试1签单测试1签单测试1签单测试1签单测试1签单测试1签单测试1签单测试1签单测试1签单测试1签单测试1签单测试1签单测试1签单测试1签单测试1签单测试1签单测试1签单测试1签单测试1签单测试1签单测试1签单测试1</p>\r\n<p>&nbsp;</p>', '2015-07-01 09:07:22', '51', '1', '2', '', '签单测试1签单测试1', '签单测试1', null, null, null, null, null, null);
@@ -418,8 +418,8 @@ CREATE TABLE `cooperation` (
 -- ----------------------------
 -- Records of cooperation
 -- ----------------------------
-INSERT INTO `cooperation` VALUES ('15', '成都维熵科技', 'upload/13/13/0bafe841-9085-4f74-96c3-fad7dec87be9_201607181130513051.jpg', 'http://www.webapi.cn', '00000000100', '2');
-INSERT INTO `cooperation` VALUES ('18', '成都维熵科技', 'upload/15/10/c0b6fe38-b3ae-4f23-9b55-eb2a9d188b0a_20161213130310310.jpg', 'http://www.webapi.cn', '00000000099', '1');
+INSERT INTO `cooperation` VALUES ('15', '成都未来科技', 'upload/13/13/0bafe841-9085-4f74-96c3-fad7dec87be9_201607181130513051.jpg', 'http://www.webapi.cn', '00000000100', '2');
+INSERT INTO `cooperation` VALUES ('18', '成都未来科技', 'upload/15/10/c0b6fe38-b3ae-4f23-9b55-eb2a9d188b0a_20161213130310310.jpg', 'http://www.webapi.cn', '00000000099', '1');
 
 -- ----------------------------
 -- Table structure for `coupon`
@@ -1257,9 +1257,9 @@ CREATE TABLE `info_tpl` (
 -- ----------------------------
 -- Records of info_tpl
 -- ----------------------------
-INSERT INTO `info_tpl` VALUES ('1', '邮件/手机验证（用于注册和申请）', '验证信息', '您的验证码：#(content)【成都维熵科技】');
-INSERT INTO `info_tpl` VALUES ('2', '下单提示店长', '提示信息', '电话为：#(content)的客户已经下单，请尽快联系【成都维熵科技】');
-INSERT INTO `info_tpl` VALUES ('3', '下单提示客户', '提示信息', '尊敬的客户您好，您的订单信息已收到，我们正在为您安排车辆，工作人员将尽快与您联系，请保持手机畅通【成都维熵科技】');
+INSERT INTO `info_tpl` VALUES ('1', '邮件/手机验证（用于注册和申请）', '验证信息', '您的验证码：#(content)【成都未来科技】');
+INSERT INTO `info_tpl` VALUES ('2', '下单提示店长', '提示信息', '电话为：#(content)的客户已经下单，请尽快联系【成都未来科技】');
+INSERT INTO `info_tpl` VALUES ('3', '下单提示客户', '提示信息', '尊敬的客户您好，您的订单信息已收到，我们正在为您安排车辆，工作人员将尽快与您联系，请保持手机畅通【成都未来科技】');
 
 -- ----------------------------
 -- Table structure for `keywords`
@@ -1315,7 +1315,7 @@ CREATE TABLE `net` (
 -- ----------------------------
 -- Records of net
 -- ----------------------------
-INSERT INTO `net` VALUES ('1', '在线租车系统_成都维熵', '在线租车系统_成都维熵', '在线租车系统_成都维熵', '成都维熵科技有限责任公司', '成都维熵科技有限责任公司', '在线租车服务系统', 'upload/4/6/614d6017-c01b-482d-8840-b2667665437a_20161213110129129.png', '028-85980903');
+INSERT INTO `net` VALUES ('1', '在线租车系统_成都未来', '在线租车系统_成都未来', '在线租车系统_成都未来', '成都未来科技有限责任公司', '成都未来科技有限责任公司', '在线租车服务系统', 'upload/4/6/614d6017-c01b-482d-8840-b2667665437a_20161213110129129.png', '028-85980903');
 
 -- ----------------------------
 -- Table structure for `order_aunt`
@@ -1388,8 +1388,8 @@ CREATE TABLE `recept` (
 -- ----------------------------
 -- Records of recept
 -- ----------------------------
-INSERT INTO `recept` VALUES ('1', '首页', '维熵租车系统', '维熵租车系统', '维熵租车系统', '', '', '0', '1', 'index', 'index', '50', '1', '1');
-INSERT INTO `recept` VALUES ('6', '联系我们', '成都维熵科技', '成都维熵科技联系我们', '成都维熵科技联系我们描述', '48', '联系我们', '0', '1', null, 'page', '1', '1', '2');
+INSERT INTO `recept` VALUES ('1', '首页', '未来租车系统', '未来租车系统', '未来租车系统', '', '', '0', '1', 'index', 'index', '50', '1', '1');
+INSERT INTO `recept` VALUES ('6', '联系我们', '成都未来科技', '成都未来科技联系我们', '成都未来科技联系我们描述', '48', '联系我们', '0', '1', null, 'page', '1', '1', '2');
 INSERT INTO `recept` VALUES ('7', '自驾租车', '自驾租车', '自驾租车', '自驾租车自驾租车', '', '', '0', '1', 'goods', 'goods_list', '5', '1', '1');
 INSERT INTO `recept` VALUES ('8', '企业服务', '企业服务', '企业服务', '企业服务', '', '', '0', '1', 'service', 'enterprise_service', '5', '1', '1');
 INSERT INTO `recept` VALUES ('9', '登陆', '登陆', '登陆', '登陆', '', '', '0', '2', 'goPetition', 'user_login_signel', '1', '1', '1');

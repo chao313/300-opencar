@@ -30,10 +30,10 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 					<form class="regist_form" name="registeForm" id="registeForm" action="javscript:void(0)" method="post">
 						<ul class="regist_now">
 							<li><input type="text" class="rmobile_icon" name="tel" id="tel" placeholder="请输入您的手机号码" /></li>
-							<li>
-								<input type="text" class="rphone_code" name="telcode" placeholder="请输入动态码" />
-								<input type="button" class="rget_code" onclick="settime(this)" value="获取手机动态码" />
-							</li>
+							<%--<li>--%>
+								<%--<input type="text" class="rphone_code" name="telcode" placeholder="请输入动态码" />--%>
+								<%--<input type="button" class="rget_code" onclick="settime(this)" value="获取手机动态码" />--%>
+							<%--</li>--%>
 							<li><input type="password" name="pass" class="rpass_icon" placeholder="请输入6-12位数字、字母、符号组合" /></li>
 							<li><input type="password" name="re_pass" class="rpass_icon" placeholder="请重复输入6-12位数字、字母、符号组合" /></li>
 							<li class="pass_regist">
